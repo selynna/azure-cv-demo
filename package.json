@@ -1,0 +1,23 @@
+{
+  "name": "azure-cv-demo",
+  "version": "1.0.0",
+  "description": "Configuring Azure custom vision model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selynna/azure-cv-demo.git"
+  },
+  "author": "Selynna Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selynna/azure-cv-demo/issues"
+  },
+  "homepage": "https://github.com/selynna/azure-cv-demo#readme",
+  "dependencies": {
+    "azure-cognitiveservices-customvision-training": "^3.0.0",
+    "dotenv": "^8.0.0"
+  }
+}
